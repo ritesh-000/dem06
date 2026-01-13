@@ -6,4 +6,4 @@ MRS xyz
 <h1>hi</h1>
 abc
 <br>
-author-ritesh rawat
+author-ritesh rawat(maruti)
